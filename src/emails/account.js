@@ -11,7 +11,7 @@ const sendWelcomeEmail = (email,name) => {
         subject: 'Welcome Email!!',
         text: `This is a welcome email for ${name}.`
     })
-    
+    console.log("what is this yaar")
 }
 
 
